@@ -1,0 +1,29 @@
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.exe.config
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.exe
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.pdb
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csprojAssemblyReference.cache
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط_صورة.Properties.Resources.resources
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csproj.GenerateResource.cache
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csproj.CoreCompileInputs.cache
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.exe
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.pdb
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Debug\التقاط_صورة.btnclear.resources
+E:\FILL E\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.exe.config
+E:\FILL E\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.exe
+E:\FILL E\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.pdb
+E:\FILL E\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csprojAssemblyReference.cache
+E:\FILL E\التقاط صورة\التقاط صورة\obj\Debug\التقاط_صورة.btnclear.resources
+E:\FILL E\التقاط صورة\التقاط صورة\obj\Debug\التقاط_صورة.Properties.Resources.resources
+E:\FILL E\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csproj.GenerateResource.cache
+E:\FILL E\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.exe
+E:\FILL E\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.pdb
+E:\swftware\PROG\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.exe.config
+E:\swftware\PROG\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.exe
+E:\swftware\PROG\التقاط صورة\التقاط صورة\bin\Debug\التقاط صورة.pdb
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csprojAssemblyReference.cache
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط_صورة.btnclear.resources
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط_صورة.Properties.Resources.resources
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csproj.GenerateResource.cache
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.csproj.CoreCompileInputs.cache
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.exe
+E:\swftware\PROG\التقاط صورة\التقاط صورة\obj\Debug\التقاط صورة.pdb

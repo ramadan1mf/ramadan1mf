@@ -1,0 +1,9 @@
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\bin\Release\التقاط صورة.exe.config
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\bin\Release\التقاط صورة.exe
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\bin\Release\التقاط صورة.pdb
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Release\التقاط_صورة.btnclear.resources
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Release\التقاط_صورة.Properties.Resources.resources
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Release\التقاط صورة.csproj.GenerateResource.cache
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Release\التقاط صورة.csproj.CoreCompileInputs.cache
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Release\التقاط صورة.exe
+E:\تعليم سي شارب\التقاط صورة\التقاط صورة\obj\Release\التقاط صورة.pdb
